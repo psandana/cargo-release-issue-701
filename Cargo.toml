@@ -11,5 +11,5 @@ description = "Minimal repo to repro: https://github.com/crate-ci/cargo-release/
 homepage = "https://github.com/psandana/cargo-release-issue-701"
 repository = "https://github.com/psandana/cargo-release-issue-701"
 keywords = ["Rust", "cargo-release", "issue"]
-version = "0.1.0-dev"
+version = "0.1.0"
 publish = ["OxidizerTest"]
