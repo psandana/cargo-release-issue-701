@@ -12,4 +12,4 @@ homepage = "https://github.com/psandana/cargo-release-issue-701"
 repository = "https://github.com/psandana/cargo-release-issue-701"
 keywords = ["Rust", "cargo-release", "issue"]
 version = "0.1.0-dev"
-publish = ["PatoRustTest"]
+publish = ["OxidizerTest"]
