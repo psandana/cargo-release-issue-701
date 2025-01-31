@@ -1,7 +1,7 @@
 [registries]
-# Oxidizer Feed (Published crates): https://o365exchange.visualstudio.com/O365%20Core/_artifacts/feed/Oxidizer
-OxidizerTest = { index = "sparse+https://o365exchange.pkgs.visualstudio.com/_packaging/OxidizerTest/Cargo/index/" }
-# OxidizerDependencies Feed (Consumed crates, mirror of crates-io): https://o365exchange.visualstudio.com/O365%20Core/_artifacts/feed/OxidizerDependencies
+
+OxidizerTest = { index = "sparse+https://o365exchange.pkgs.visualstudio.com/959adb23-f323-4d52-8203-ff34e5cbeefa/_packaging/OxidizerTest/Cargo/index/" }
+
 OxidizerDependencies = { index = "sparse+https://o365exchange.pkgs.visualstudio.com/959adb23-f323-4d52-8203-ff34e5cbeefa/_packaging/OxidizerDependencies/Cargo/index/" }
 
 [source.crates-io]
