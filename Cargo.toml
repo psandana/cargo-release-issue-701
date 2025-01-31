@@ -1,0 +1,14 @@
+[workspace]
+members = ["crates/*"]
+
+resolver = "2"
+
+[workspace.package]
+edition = "2021"
+authors = ["Pato"]
+license-file = "LICENSE"
+description = "Minimal repo to repro: https://github.com/crate-ci/cargo-release/issues/701"
+homepage = "https://github.com/psandana/cargo-release-issue-701"
+repository = "https://github.com/psandana/cargo-release-issue-701"
+keywords = ["Rust", "cargo-release", "issue"]
+version = "0.1.0"
