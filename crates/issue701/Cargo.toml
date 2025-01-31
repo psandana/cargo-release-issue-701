@@ -1,0 +1,12 @@
+[package]
+name = "issue701"
+edition.workspace = true
+authors.workspace = true
+license-file.workspace = true
+description.workspace = true
+homepage.workspace = true
+repository.workspace = true
+keywords.workspace = true
+version.workspace = true
+
+[dependencies]
